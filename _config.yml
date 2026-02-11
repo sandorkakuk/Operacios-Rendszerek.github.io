@@ -2,4 +2,4 @@ title: OS Idővonal Múzeum
 description: Az operációs rendszerek evolúciója - próbáld ki őket a böngészőben!
 baseurl: "" # GitHub Pages esetén: "/repo-neve"
 url: "" 
-theme: null
+theme: minima
