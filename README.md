@@ -1,1 +1,0 @@
-# Operacios-Rendszerek
